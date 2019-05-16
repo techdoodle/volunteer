@@ -1,0 +1,8 @@
+volunteerJourney/__pycache__/
+.idea/
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.bak 
+__pycache__
